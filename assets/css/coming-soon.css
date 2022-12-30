@@ -1,0 +1,17 @@
+
+.comming-soon {
+    margin-bottom: 3rem;
+}
+@media only screen and (max-width: 415px) {
+    .comming-soon {
+        margin-bottom: 1rem;
+    }
+    .cursive {
+      font-size: 50px;
+    }
+    .block {
+      font-size: 45px;
+      min-width: 100px;
+      letter-spacing: 10px;
+    }
+  }
